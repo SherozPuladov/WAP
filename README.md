@@ -5,3 +5,5 @@
 </p>
 
 ![WAP](WAP.png)
+
+[Ссылка на проект](https://www.figma.com/file/OigQstcLxPEWFy59pxnb2Z/Untitled?t=iaKAsy0ViimMHW9d-1)
